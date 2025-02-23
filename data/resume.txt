@@ -1,0 +1,59 @@
+[NAME] [Your Name]
+[CONTACT] 
+- Location: Mumbai, Maharashtra, 400098, India
+- Phone: 8942012908
+
+[SUMMARY]
+- Results-oriented Software Development Engineer in Test (SDET) with extensive experience in automation frameworks and manual testing.
+- Expertise in tools and technologies like Selenium, BDD, RestAssured, JMeter, GitHub Actions, and TestNG.
+- Proficient in API automation, functional and regression testing, and full-stack development.
+
+[EXPERIENCE]
+1. SDET at JSW One Platform (Mar 2024 – Present)
+- Authored over 1,550 test cases and raised more than 125 bugs.
+- Designed automation frameworks for Salesforce using Selenium, BDD Cucumber, and TestNG.
+- Led functional, regression, and sanity testing across production and QA environments.
+- Implemented API automation frameworks using RestAssured.
+- Conducted knowledge transfer sessions with product managers and technical teams.
+- Developed a central in-house reporting tool using the MERN stack.
+- Integrated CI/CD pipeline at JSW.
+- Spearheaded cross-functional integration projects with ZOHO, ERP, and CCP.
+
+2. SDET Intern at MountBlue (Dec 2023 – Mar 2024)
+- Mastered Manual Testing, API Testing, UI Automation, Appium, BDD Cucumber, TDD, and Hybrid Testing.
+- Developed testing frameworks for web applications.
+
+3. SDE Intern at MountBlue (Oct 2023 – Dec 2023)
+- Mastered Python, Django, JavaScript, HTML, CSS, and SQL.
+- Developed a fully functional social media application.
+
+[PROJECTS]
+1. Salesforce Automation Framework
+- Built using Selenium, Page Object Model (POM), TestNG, and BDD Cucumber.
+- Reduced testing cycle time and enhanced testing accuracy.
+
+2. API Automation Framework
+- Developed using RestAssured, TestNG, and BDD.
+- Ensured consistent API performance and reliability.
+
+3. Cross-Functional Integration Testing
+- Conducted end-to-end testing for Salesforce integration with ZOHO, ERP, and CCP systems.
+- Validated data synchronization and workflows.
+
+[SKILLS]
+- Programming Languages: Java, JavaScript, C++, Python, SQL
+- Testing Tools: Selenium, PlayWright, K6, RestAssured, JMeter, Appium, TestNG, BDD Cucumber
+- Version Control: Git, GitHub Actions
+- Project Management: JIRA, Qmetry
+- Web Development: MERN Stack (MongoDB, Express.js, React.js, Node.js)
+
+[EDUCATION]
+- Bachelor of Technology in Computer Science, Lovely Professional University (2020 – 2024)
+  GPA: 7.49
+
+[ACHIEVEMENTS]
+- Represented the state at nationals in sports as captain in two championships.
+- Solved more than 350+ problems on LeetCode and 700+ across all platforms (GFG, CodeChef, Codeforces).
+
+[INTERESTS]
+- Enthusiast in traveling and vlogging.

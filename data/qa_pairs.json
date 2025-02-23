@@ -1,0 +1,62 @@
+[
+    {
+        "question": "What are my skills?",
+        "answer": "[SKILLS] Programming: Java, Python, SQL | Testing Tools: Selenium, RestAssured, JMeter | Web Development: MERN Stack"
+    },
+    {
+        "question": "Tell me about my technical skills.",
+        "answer": "[SKILLS] Programming: Java, Python, SQL | Testing Tools: Selenium, RestAssured, JMeter"
+    },
+    {
+        "question": "What programming languages do I know?",
+        "answer": "[SKILLS] Programming: Java, Python, SQL"
+    },
+    {
+        "question": "What is my experience?",
+        "answer": "[EXPERIENCE] 1. SDET at JSW One Platform (Mar 2024–Present) - Authored 1,550+ test cases. 2. SDET Intern at MountBlue (Dec 2023–Mar 2024) - Mastered API testing and UI automation."
+    },
+    {
+        "question": "Where did I work as an SDET?",
+        "answer": "[EXPERIENCE] 1. SDET at JSW One Platform (Mar 2024–Present) - Authored 1,550+ test cases."
+    },
+    {
+        "question": "What is my education?",
+        "answer": "[EDUCATION] B.Tech in Computer Science, Lovely Professional University (2020–2024)"
+    },
+    {
+        "question": "Where did I study?",
+        "answer": "[EDUCATION] B.Tech in Computer Science, Lovely Professional University (2020–2024)"
+    },
+    {
+        "question": "What projects have I worked on?",
+        "answer": "[PROJECTS] 1. Salesforce Automation Framework - Built using Selenium and TestNG."
+    },
+    {
+        "question": "Tell me about my Salesforce project.",
+        "answer": "[PROJECTS] Salesforce Automation Framework - Built using Selenium and TestNG."
+    },
+    {
+        "question": "What tools did I use at JSW One Platform?",
+        "answer": "[EXPERIENCE] At JSW One Platform, I used Selenium, RestAssured, and JMeter."
+    },
+    {
+        "question": "What did I do at MountBlue?",
+        "answer": "[EXPERIENCE] At MountBlue, I mastered API testing, UI automation, and built testing frameworks."
+    },
+    {
+        "question": "What are my achievements?",
+        "answer": "[ACHIEVEMENTS] - Authored 1,550+ test cases. - Led cross-functional integration projects."
+    },
+    {
+        "question": "What are my detailed skills?",
+        "answer": "[DETAILED_SKILLS] Programming Languages: Java, Python, JavaScript, C++, SQL | Testing Tools: Selenium, PlayWright, RestAssured, JMeter | Development Frameworks: Django, MERN Stack"
+    },
+    {
+        "question": "Tell me about my personal information",
+        "answer": "[PERSONAL] Name: Ankit Sharma | Location: Mumbai, Maharashtra | Languages: English (Fluent), Hindi (Native), Bengali (Intermediate)"
+    },
+    {
+        "question": "What is my detailed experience?",
+        "answer": "[DETAILED_EXPERIENCE] Currently SDET at JSW One Platform, previously SDET Intern and SDE Intern at MountBlue Technologies. Expertise in automation frameworks and full-stack development."
+    }
+]

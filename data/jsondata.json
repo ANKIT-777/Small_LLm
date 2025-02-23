@@ -1,0 +1,153 @@
+{
+    "personal_info": {
+      "name": "Ankit Sharma",
+      "location": "Mumbai, Maharashtra, 400098, India",
+      "phone": "+91-8942012908",
+      "email": "ankitsharma45@gmail.com",
+      "linkedin": "linkedin.com/in/ankit1176",
+      "github": "github.com/ANKIT_777",
+      "portfolio": "ankitsharma-portfolio.com",
+      "dob": "2002-03-15",
+      "nationality": "Indian",
+      "languages": ["English (Fluent)", "Hindi (Native)", "Bengali (Intermediate)"]
+    },
+    "summary": "Results-oriented Software Development Engineer in Test (SDET) with expertise in automation frameworks, manual testing, and full-stack development. Experienced in Selenium, Playwright, RestAssured, JMeter, Appium, TestNG, BDD Cucumber, and CI/CD pipelines.",
+    "skills": {
+      "programming_languages": ["Java", "Python", "JavaScript", "C++", "SQL"],
+      "testing_tools": ["Selenium", "PlayWright", "RestAssured", "JMeter", "Appium", "TestNG", "BDD Cucumber", "K6"],
+      "development_frameworks": ["Django", "MERN Stack"],
+      "version_control": ["Git", "GitHub Actions"],
+      "project_management": ["JIRA", "Qmetry", "Agile/Scrum"],
+      "databases": ["MongoDB", "SQLite", "MySQL"],
+      "other_tools": ["Postman", "Docker", "Jenkins", "Kubernetes"],
+      "soft_skills": ["Leadership", "Problem-Solving", "Team Collaboration", "Communication"]
+    },
+    "experience": [
+      {
+        "title": "Software Development Engineer in Test (SDET)",
+        "company": "JSW One Platform",
+        "location": "Mumbai, Maharashtra",
+        "duration": "March 2024 – Present",
+        "responsibilities": [
+          "Designed automation frameworks for Salesforce using Selenium, TestNG, and BDD Cucumber, reducing testing cycle time by 40%.",
+          "Authored 1,550+ test cases and identified 125+ critical bugs.",
+          "Developed API automation using RestAssured, ensuring 99.9% uptime.",
+          "Led performance testing using JMeter and K6.",
+          "Built an in-house reporting tool using the MERN stack.",
+          "Integrated CI/CD pipelines using GitHub Actions."
+        ]
+      },
+      {
+        "title": "SDET Intern",
+        "company": "MountBlue Technologies",
+        "location": "Bangalore, Karnataka",
+        "duration": "December 2023 – March 2024",
+        "responsibilities": [
+          "Developed test frameworks using Selenium, Appium, BDD Cucumber, and TestNG.",
+          "Collaborated with senior SDETs to improve application stability by 35%.",
+          "Documented test cases and bug reports using JIRA and Qmetry."
+        ]
+      },
+      {
+        "title": "Software Development Engineer (SDE) Intern",
+        "company": "MountBlue Technologies",
+        "location": "Bangalore, Karnataka",
+        "duration": "October 2023 – December 2023",
+        "responsibilities": [
+          "Developed a social media application using Python, Django, JavaScript, and MongoDB.",
+          "Implemented RESTful APIs and optimized database schemas.",
+          "Reduced application errors by 25% through debugging and unit testing."
+        ]
+      }
+    ],
+    "education": {
+      "degree": "Bachelor of Technology in Computer Science",
+      "university": "Lovely Professional University",
+      "location": "Jalandhar, Punjab",
+      "duration": "2020 – 2024",
+      "gpa": "7.49/10",
+      "relevant_coursework": ["Software Engineering", "Data Structures & Algorithms", "Database Management", "Cloud Computing", "Testing & Quality Assurance"]
+    },
+    "projects": [
+      {
+        "title": "Salesforce Automation Framework",
+        "technologies": ["Selenium", "TestNG", "BDD Cucumber", "Java"],
+        "description": "Developed a robust automation framework for Salesforce applications, reducing testing cycle time by 40%.",
+        "impact": "Improved test coverage by 60% and enhanced testing accuracy."
+      },
+      {
+        "title": "API Automation Framework",
+        "technologies": ["RestAssured", "TestNG", "BDD Cucumber", "Java"],
+        "description": "Built a scalable API automation framework to validate RESTful services.",
+        "impact": "Ensured 99.9% API reliability and minimized regression defects by 50%."
+      },
+      {
+        "title": "Cross-Functional Integration Testing Platform",
+        "technologies": ["Selenium", "RestAssured", "JMeter", "Java", "Python"],
+        "description": "Conducted end-to-end testing for Salesforce integration with ZOHO, ERP, and CCP systems.",
+        "impact": "Improved system interoperability and reduced integration bugs by 45%."
+      },
+      {
+        "title": "Social Media Application",
+        "technologies": ["Python", "Django", "JavaScript", "HTML", "CSS", "MongoDB"],
+        "description": "Developed a scalable social media platform with user authentication, posts, comments, and real-time notifications.",
+        "impact": "Delivered a fully functional prototype within 8 weeks, achieving 95% user satisfaction."
+      }
+    ],
+    "certifications": [
+      {
+        "title": "Certified Selenium Automation Tester",
+        "organization": "SeleniumHQ",
+        "year": 2024
+      },
+      {
+        "title": "AWS Certified Developer – Associate",
+        "organization": "Amazon Web Services",
+        "year": 2023
+      },
+      {
+        "title": "ISTQB Foundation Level Certification",
+        "organization": "ISTQB",
+        "year": 2023
+      },
+      {
+        "title": "Full Stack Web Development with MERN",
+        "organization": "Udemy",
+        "year": 2023
+      }
+    ],
+    "achievements": [
+      "Represented Maharashtra state at national-level sports championships, winning gold medals in two consecutive years (2021–2022).",
+      "Solved over 700 coding problems on platforms like LeetCode, GeeksforGeeks, CodeChef, and Codeforces, ranking in the top 5% on LeetCode.",
+      "Received the 'Best Intern Award' at MountBlue Technologies for outstanding performance in testing and development (2024).",
+      "Published a research paper on 'Optimizing Test Automation Frameworks for Cloud-Based Applications' in the International Journal of Software Engineering (2024)."
+    ],
+    "extra_curricular": [
+      {
+        "activity": "LPU Coding Club",
+        "role": "Active Member",
+        "duration": "2021–2023",
+        "impact": "Organized hackathons and coding bootcamps for 500+ students."
+      },
+      {
+        "activity": "TechForGood",
+        "role": "Volunteer",
+        "duration": "2022–2024",
+        "impact": "Conducted STEM workshops for 200+ students in rural India."
+      },
+      {
+        "activity": "YouTube Tech Vlogger",
+        "role": "Content Creator",
+        "duration": "2023–present",
+        "impact": "Documented tech meetups and cultural experiences, gaining over 10,000 subscribers."
+      }
+    ],
+    "interests": [
+      "Traveling",
+      "Vlogging",
+      "Competitive Programming",
+      "Open-Source Contributions",
+      "Fitness and Sports (Cricket, Badminton)"
+    ]
+  }
+  
